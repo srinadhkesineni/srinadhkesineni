@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Split-Wise](https://github.com/YEDLAMUKHESHKUMAR/Split-Wise)
+- 🔭 I’m currently working on CI/CD
 
 - 🌱 I’m currently learning *Devops*
 
